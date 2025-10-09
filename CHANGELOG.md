@@ -1,5 +1,9 @@
 # Changelog
 
+## v0.5.9 (09.10.2025)
+
+* Fix use of mypy while maintaining pyright compatibility (PR [#73](https://github.com/click-contrib/click-option-group/pull/73))
+
 ## v0.5.8 (01.10.2025)
 
 * Fix some types for pyright linter (PR [#72](https://github.com/click-contrib/click-option-group/pull/72))
